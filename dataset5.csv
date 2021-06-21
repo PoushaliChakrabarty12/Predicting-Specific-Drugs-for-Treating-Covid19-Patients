@@ -1,0 +1,22 @@
+Drug_Name,Docking_Value_in_-ve,BindingAffinity_in_-ve,Number_of_people_cured_in_USA(in10K)
+"5,7,3'4'-Tetrahydroxy-2'-(3,3-dimethylally)isoflavone",16.35,29.57,7.5
+Myricitrin,15.64,22.13,7.1
+Methyl rosmarinate,15.44,20.62,6.3
+"3,5,7,3',4',5'-hexahydroxyflavanone-3-O-beta-D-glucopyranoside",14.42,19.1,5.8
+(2S)-Eriodictyol7-O-(6''-O-galloyl)-beta-D-glucopyranoside,14.41,19.47,6.1
+CalceolariosideB,14.36,19.87,6.2
+Myricetin3-O-beta-D-glucopyranoside,13.7,18.42,6.1
+Licoleafol,13.63,19.64,6.2
+Amaranthin,12.67,18.14,5.6
+Nelfinavir,12.2,17.31,5.6
+Prulifloxacin,11.32,15.4,5.3
+Colistin,13.73,18.57,6.3
+"492405,favipiravir",8.73,4.06,3.7
+"6246,amodiaquine",10.7,7.77,4.9
+"101507,2'-fluoro-2'-deoxycyridine",6.45,4.47,4.1
+"37542,ribavirin",7.9,4.69,4.2
+Hydroxychloroquine,9.1,6.06,4.8
+Remdesivir,7.59,4.96,4.2
+Oseltamivir,8.9,4.7,4.1
+Ritonavir,12.76,7.3,4.8
+Chloroquine,9.6,5.3,4.2
